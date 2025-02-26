@@ -6,3 +6,11 @@
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
+
+## Dependências
+
+- Django
+- PythonDotEnv
+- Groq
+- Pillow
+- Psycopg 3
